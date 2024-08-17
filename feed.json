@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Спировски",
+    "description": "",
+    "home_page_url": "https://spirovski-law.mk",
+    "feed_url": "https://spirovski-law.mk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Христијан Спировски"
+    },
+    "items": [
+        {
+            "id": "https://spirovski-law.mk/news/odluka-na-sudski-sovet/",
+            "url": "https://spirovski-law.mk/news/odluka-na-sudski-sovet/",
+            "title": "Одлука на судски совет",
+            "author": {
+                "name": "Христијан Спировски"
+            },
+            "tags": [
+                   "Сите Вести",
+                   "Вести од Правото"
+            ],
+            "date_published": "2024-08-17T13:35:39+02:00",
+            "date_modified": "2024-08-17T17:27:25+02:00"
+        },
+        {
+            "id": "https://spirovski-law.mk/news/closed-for-the-summer/",
+            "url": "https://spirovski-law.mk/news/closed-for-the-summer/",
+            "title": "Летно работно време",
+            "author": {
+                "name": "Христијан Спировски"
+            },
+            "tags": [
+                   "Сите Вести",
+                   "Известувања"
+            ],
+            "date_published": "2024-08-17T12:55:21+02:00",
+            "date_modified": "2024-08-17T17:27:33+02:00"
+        }
+    ]
+}

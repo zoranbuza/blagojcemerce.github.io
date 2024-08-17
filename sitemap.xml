@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://spirovski-law.mk/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://spirovski-law.mk/</loc>
+</url>
+<url>
+<loc>https://spirovski-law.mk/news/closed-for-the-summer/</loc>
+</url>
+<url>
+<loc>https://spirovski-law.mk/news/odluka-na-sudski-sovet/</loc>
+</url>
+<url>
+<loc>https://spirovski-law.mk/about/</loc>
+<lastmod>2024-08-16T13:33:38+02:00</lastmod>
+</url>
+<url>
+<loc>https://spirovski-law.mk/contact/</loc>
+<lastmod>2024-08-16T13:33:58+02:00</lastmod>
+</url>
+<url>
+<loc>https://spirovski-law.mk/law-practices/</loc>
+<lastmod>2024-08-16T13:18:23+02:00</lastmod>
+</url>
+</urlset>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Спировски</title>
+    <link href="https://spirovski-law.mk/feed.xml" rel="self" />
+    <link href="https://spirovski-law.mk" />
+    <updated>2024-08-17T17:27:33+02:00</updated>
+    <author>
+        <name>Христијан Спировски</name>
+    </author>
+    <id>https://spirovski-law.mk</id>
+
+    <entry>
+        <title>Одлука на судски совет</title>
+        <author>
+            <name>Христијан Спировски</name>
+        </author>
+        <link href="https://spirovski-law.mk/news/odluka-na-sudski-sovet/"/>
+        <id>https://spirovski-law.mk/news/odluka-na-sudski-sovet/</id>
+            <category term="Сите Вести"/>
+            <category term="Вести од Правото"/>
+
+        <updated>2024-08-17T13:35:39+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Летно работно време</title>
+        <author>
+            <name>Христијан Спировски</name>
+        </author>
+        <link href="https://spirovski-law.mk/news/closed-for-the-summer/"/>
+        <id>https://spirovski-law.mk/news/closed-for-the-summer/</id>
+            <category term="Сите Вести"/>
+            <category term="Известувања"/>
+
+        <updated>2024-08-17T12:55:21+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

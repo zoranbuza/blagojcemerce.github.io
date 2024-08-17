@@ -1,0 +1,242 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c04999b09ca68548cc3ead6d00f52103"
+    },
+    {
+        "path": "about",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about/index.html",
+        "type": "file",
+        "md5": "4a63388dbe3f4a53b6233cd4f455ae7d"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0cdb59ef5ff45200c1fa7f118fea017e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "4429976dda21cb02d842d945289e1b7f"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/id",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/id/index.html",
+        "type": "file",
+        "md5": "ddff701deb26873b92d45d75b78b51ca"
+    },
+    {
+        "path": "contact",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact/index.html",
+        "type": "file",
+        "md5": "dbc89a593bbeb7cb5282b51e11f56a88"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "d5d6f5e8a0f4ee1248cbe0b38ee87816"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a9a9ceb4e7dd364922978ae13dd251f5"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "28c219bb06be1e34ecd4ca9ea795fd3a"
+    },
+    {
+        "path": "law-practices",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/law-practices/index.html",
+        "type": "file",
+        "md5": "0d5074caab960d499dbda50ad2a0de58"
+    },
+    {
+        "path": "news",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "news/closed-for-the-summer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/closed-for-the-summer/index.html",
+        "type": "file",
+        "md5": "c6ff6f841efe3916eae8df3d41cfb727"
+    },
+    {
+        "path": "/news/index.html",
+        "type": "file",
+        "md5": "76a1a9ef537861f62c0d1d335ceccab3"
+    },
+    {
+        "path": "news/odluka-na-sudski-sovet",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/odluka-na-sudski-sovet/index.html",
+        "type": "file",
+        "md5": "fecf9c65b84063db63b8415a59b6b50a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "84e293f1265b81f755b86194ffc721ad"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "b7de40edcb1b94504f2c137ca80ba4da"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "d0018d6ee8b217e091f831fbeacc5974"
+    },
+    {
+        "path": "tags/izvestuvanja",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/izvestuvanja/index.html",
+        "type": "file",
+        "md5": "430fd6f36e7dd9216cc99e63f8b26cd8"
+    },
+    {
+        "path": "tags/site-vesti",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/site-vesti/index.html",
+        "type": "file",
+        "md5": "bd7f86f081727e52dbcf6601ba477017"
+    },
+    {
+        "path": "tags/vesti-od-pravoto",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/vesti-od-pravoto/index.html",
+        "type": "file",
+        "md5": "bd3774cb071f8a74e1836ca68b7e6ad2"
+    }
+]
