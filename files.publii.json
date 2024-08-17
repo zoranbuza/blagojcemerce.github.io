@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c04999b09ca68548cc3ead6d00f52103"
+        "md5": "bc9e9171f41e303b9986808484c19825"
     },
     {
         "path": "about",
@@ -12,7 +12,7 @@
     {
         "path": "/about/index.html",
         "type": "file",
-        "md5": "4a63388dbe3f4a53b6233cd4f455ae7d"
+        "md5": "2a6e3dff3a273d316090bcda0c5f1d1c"
     },
     {
         "path": "assets",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/id/index.html",
         "type": "file",
-        "md5": "ddff701deb26873b92d45d75b78b51ca"
+        "md5": "b4ed360e60f204098f173b1b2a0812d5"
     },
     {
         "path": "contact",
@@ -127,22 +127,22 @@
     {
         "path": "/contact/index.html",
         "type": "file",
-        "md5": "dbc89a593bbeb7cb5282b51e11f56a88"
+        "md5": "aa11a24417d1239e29a38a602446ed7e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d5d6f5e8a0f4ee1248cbe0b38ee87816"
+        "md5": "f5a71f89ddb7beb518418e5c69c33348"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a9a9ceb4e7dd364922978ae13dd251f5"
+        "md5": "0c57f4f4d8011ef61ff9095f76e6660d"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "28c219bb06be1e34ecd4ca9ea795fd3a"
+        "md5": "bc55cf33f205bb3fe0562bb18f7abdf4"
     },
     {
         "path": "law-practices",
@@ -152,7 +152,7 @@
     {
         "path": "/law-practices/index.html",
         "type": "file",
-        "md5": "0d5074caab960d499dbda50ad2a0de58"
+        "md5": "5529d5adbbba128de365bcc4a58a3175"
     },
     {
         "path": "news",
@@ -167,12 +167,12 @@
     {
         "path": "/news/closed-for-the-summer/index.html",
         "type": "file",
-        "md5": "c6ff6f841efe3916eae8df3d41cfb727"
+        "md5": "e26969aa9aeebe6b309534a21d3ccdeb"
     },
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "76a1a9ef537861f62c0d1d335ceccab3"
+        "md5": "9364f6b91eef575c1f9cf4e0c518c96d"
     },
     {
         "path": "news/odluka-na-sudski-sovet",
@@ -182,17 +182,17 @@
     {
         "path": "/news/odluka-na-sudski-sovet/index.html",
         "type": "file",
-        "md5": "fecf9c65b84063db63b8415a59b6b50a"
+        "md5": "146141c98b560cbe718f13caa8e738f9"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "84e293f1265b81f755b86194ffc721ad"
+        "md5": "0fc38782a7150e4af2626e034a502da1"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b7de40edcb1b94504f2c137ca80ba4da"
+        "md5": "8ac6e3580e66bbfe46ed856f7e45a021"
     },
     {
         "path": "sitemap.xsl",
@@ -207,7 +207,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d0018d6ee8b217e091f831fbeacc5974"
+        "md5": "e6e45e90ff76fe706475b102766d806c"
     },
     {
         "path": "tags/izvestuvanja",
@@ -217,7 +217,7 @@
     {
         "path": "/tags/izvestuvanja/index.html",
         "type": "file",
-        "md5": "430fd6f36e7dd9216cc99e63f8b26cd8"
+        "md5": "02b6954d03c4d99fe1618d90419936ca"
     },
     {
         "path": "tags/site-vesti",
@@ -227,7 +227,7 @@
     {
         "path": "/tags/site-vesti/index.html",
         "type": "file",
-        "md5": "bd7f86f081727e52dbcf6601ba477017"
+        "md5": "cec8ed67617b1c1792e500af2bdc0c0c"
     },
     {
         "path": "tags/vesti-od-pravoto",
@@ -237,6 +237,6 @@
     {
         "path": "/tags/vesti-od-pravoto/index.html",
         "type": "file",
-        "md5": "bd3774cb071f8a74e1836ca68b7e6ad2"
+        "md5": "984ffdf01477ff4c74fb6a09209b6a3f"
     }
 ]
