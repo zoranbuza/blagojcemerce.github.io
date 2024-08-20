@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b27581a4799e349d136325f91102dcda"
+        "md5": "132d099401b719baa19dd01fe828e81d"
     },
     {
         "path": "about",
@@ -12,7 +12,7 @@
     {
         "path": "/about/index.html",
         "type": "file",
-        "md5": "35c87ebde52f5a16be4cb84486d3eab8"
+        "md5": "f89322af2904fae4ea2a3cc4f2365b5e"
     },
     {
         "path": "assets",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/id/index.html",
         "type": "file",
-        "md5": "c11edc7cd958f24d14dd70c43915c42f"
+        "md5": "1ec60fa4a90a76065d858578fa660fef"
     },
     {
         "path": "contact",
@@ -127,7 +127,7 @@
     {
         "path": "/contact/index.html",
         "type": "file",
-        "md5": "09952848746ec95342456fc689a3ca97"
+        "md5": "03da9f7d49931a129b8905c49bc8f47d"
     },
     {
         "path": "feed.json",
@@ -142,7 +142,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1c69e6e95db8855219f31642a9f53568"
+        "md5": "badd5b5ca1d0ff2f19cc9dde91a0c486"
     },
     {
         "path": "oblasti-na-pravoto",
@@ -152,7 +152,7 @@
     {
         "path": "/oblasti-na-pravoto/index.html",
         "type": "file",
-        "md5": "6f95a376bfe2bfac63afb3f0182b2684"
+        "md5": "3d14f23e4fede2f81d6a78bb2eab888e"
     },
     {
         "path": "robots.txt",
@@ -177,7 +177,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "1c881547c011bae8cb8ec3c7d27e781e"
+        "md5": "aa34531eb73f8c5b3061b77cb0605420"
     },
     {
         "path": "tags/izvestuvanja",
@@ -187,7 +187,7 @@
     {
         "path": "/tags/izvestuvanja/index.html",
         "type": "file",
-        "md5": "b0c68bc9e2eb13cdbf1954ba839ac6c8"
+        "md5": "d060c46ce64c314846174fc538594dfa"
     },
     {
         "path": "tags/site-vesti",
@@ -197,7 +197,7 @@
     {
         "path": "/tags/site-vesti/index.html",
         "type": "file",
-        "md5": "51949a69fcc75462c265ac33f415b403"
+        "md5": "32c402cee7d29a63df8c94b6e75fbb30"
     },
     {
         "path": "tags/vesti-od-oblasta-na-pravoto",
@@ -207,7 +207,7 @@
     {
         "path": "/tags/vesti-od-oblasta-na-pravoto/index.html",
         "type": "file",
-        "md5": "b8d44be8f8d0541b7a6b99833aa8dcd8"
+        "md5": "d210025e93d625684c2a30bf5b538be6"
     },
     {
         "path": "vesti",
@@ -222,12 +222,12 @@
     {
         "path": "/vesti/closed-for-the-summer/index.html",
         "type": "file",
-        "md5": "4ebb35967995946b2765846136ce7505"
+        "md5": "d1f96f889d82846218831aab43f87962"
     },
     {
         "path": "/vesti/index.html",
         "type": "file",
-        "md5": "fe2a3b0a2a0ea07727a59af60f7d8945"
+        "md5": "3ac29e218a7079579a7261fb16b72076"
     },
     {
         "path": "vesti/odluka-na-sudski-sovet",
@@ -237,7 +237,7 @@
     {
         "path": "/vesti/odluka-na-sudski-sovet/index.html",
         "type": "file",
-        "md5": "6d8a2eade2ece52f5e6e212127fc061e"
+        "md5": "da4682eb1aba3589d6dafdcec551cb64"
     },
     {
         "path": "vesti/politika-na-privatnost",
@@ -247,7 +247,7 @@
     {
         "path": "/vesti/politika-na-privatnost/index.html",
         "type": "file",
-        "md5": "883ce33013fd566839c1f0f5470f6770"
+        "md5": "25ee80d0e556653836b6e3a113cb780b"
     },
     {
         "path": "vesti/uslovi-za-koristenje",
@@ -257,6 +257,6 @@
     {
         "path": "/vesti/uslovi-za-koristenje/index.html",
         "type": "file",
-        "md5": "cd154c9e350cd05e37707e51d3c1c268"
+        "md5": "41c5c23d4b452321a018db6e605d7f05"
     }
 ]
